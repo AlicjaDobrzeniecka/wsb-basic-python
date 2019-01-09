@@ -1,1 +1,1 @@
-# wsb-basic-python
+# Excercises from the basic python course in WSB
