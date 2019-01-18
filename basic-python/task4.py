@@ -1,6 +1,6 @@
 
 # Write a program where you can write the grades of subjects. Then calculate the mean,median and standard
-# deviation of all grades. Helpful and statistical functions put in separate module.
+# deviation of all grades.
 
 import numpy as np
 
